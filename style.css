@@ -1,7 +1,7 @@
 #Travel{
     color:black;
     background-color: cadetblue;
-    border-left: 16px;
+    border-left: 16px dotted black;
 }
 .details{
     color:black;
