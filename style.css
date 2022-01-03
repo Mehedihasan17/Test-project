@@ -10,3 +10,8 @@
 .details{
     text-align:justify;
 }
+.no-visit{
+    background-color: chartreuse;
+    border:10px;
+    padding:2px;
+}
